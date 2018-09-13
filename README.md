@@ -10,6 +10,6 @@ Download and install the following application:
 
 Use it to install the decochromtoolkit.zxp file located in this repository.
 
-Open or Restart Illustator.
+Open or Restart Illustrator.
 
 In Windows > Extension enable Decochrom Toolkit
