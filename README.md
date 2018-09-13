@@ -1,2 +1,5 @@
-# IllustratorExtension
-Decochrom Toolkit Illustrator Extension
+# Decochrom Toolkit Illustrator Extension
+
+Installation Guide
+------------------
+
