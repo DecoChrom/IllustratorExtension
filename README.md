@@ -13,3 +13,8 @@ Use it to install the decochromtoolkit.zxp file located in this repository.
 Open or Restart Illustrator.
 
 In Windows > Extension enable Decochrom Toolkit
+
+
+Usage
+-----
+Adding registrations require a pathitem to be selected and currently only supports rectangular designs.
